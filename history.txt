@@ -1,0 +1,1000 @@
+ 1046  git --global
+ 1047  git confil
+ 1048  git config
+ 1049  git config --global
+ 1050  git config --global user.name "mbelaselani@gmail.com"
+ 1051  git config --global user.email "mbelaselani@gmail.com"
+ 1052  git config --global user.name "thembela1999"
+ 1053  git config -l
+ 1054  git init
+ 1055  git add *
+ 1056  git commit -m "first commit"
+ 1057  git push -u origin master
+ 1058  https://api.github.com/repos/thembela1999
+ 1059  curl https://api.github.com/users/caspyin
+ 1060  curl --user "caspyin" https://api.github.com/users/caspyin
+ 1061  clear
+ 1062  curl --user "thembela1999" https://api.github.com/users/thembela1999
+ 1063  mkdir src
+ 1064  npm init
+ 1065  cd src
+ 1066  node github_api.js
+ 1067  clear
+ 1068  cd ..
+ 1069  mkdir src
+ 1070  npm init
+ 1071  clear
+ 1072  cd src
+ 1073  node GithubAPIs
+ 1074  clear
+ 1075  cd ..
+ 1076  mdir spec
+ 1077  mkdir spec
+ 1078  cd src
+ 1079  cler
+ 1080  clear
+ 1081  node github_APIs.js 
+ 1082  clear
+ 1083  cd ..
+ 1084  git init
+ 1085  git add *
+ 1086  git commit -m "updated'
+ 1087  git commit -m "updated"
+ 1088  clear
+ 1089  cd src
+ 1090  node consumeGithubAPI.js 
+ 1091  clear
+ 1092  node consumeGithubAPI.js 
+ 1093  clear
+ 1094  node consumeGithubAPI.js 
+ 1095  clear
+ 1096  node consumeGithubAPI.js 
+ 1097  clear
+ 1098  cd ..
+ 1099  git init
+ 1100  git add *
+ 1101  git commit -m "second commit"
+ 1102  git push -u origin master
+ 1103  Thembela-Selani-181-consume-github-api
+ 1104  git push -u origin master
+ 1105  clear
+ 1106  git init 
+ 1107  git add
+ 1108  clear
+ 1109  git init
+ 1110  git add *
+ 1111  git commit -m "updated"
+ 1112  clear
+ 1113  echo "# thembela1999-consumeGithubAPI" >> README.md
+ 1114  git init
+ 1115  git add *
+ 1116  git commit -m "second commit"
+ 1117  git push -u origin master
+ 1118  git remote add origin https://github.com/thembela1999/thembela1999-consumeGithubAPI.git
+ 1119  clear
+ 1120  cd src
+ 1121  node git.js 
+ 1122  clear
+ 1123  git init
+ 1124  git add *
+ 1125  git commit -m "second commit"
+ 1126  git push -u origin master
+ 1127  git remote add origin https://github.com/thembela1999/GithubAPIs.git
+ 1128  git push -u origin master
+ 1129  mkdir spec
+ 1130  jasmine init
+ 1131  mkdir spec
+ 1132  jasmine init
+ 1133  mkdir src
+ 1134  npm init
+ 1135  clear
+ 1136  mkdir spec
+ 1137  jasmine init
+ 1138  clear
+ 1139  cd spec
+ 1140  jasmine init
+ 1141  clear
+ 1142  cd ..
+ 1143  cd src
+ 1144  node memoryGame.js 
+ 1145  mkdir memory-game
+ 1146  cd memory-game
+ 1147  touch index.html style.css script.js
+ 1148  mkdir img
+ 1149  mkdir spec
+ 1150  jasmine init
+ 1151  mkdir src
+ 1152  npm init
+ 1153  touch img
+ 1154  mkdir img
+ 1155  git config --global user.email johndoe@example.com
+ 1156  git config --global user.email mbelaselani@gmail.com
+ 1157  git config --global user.name thembela1999
+ 1158  git init
+ 1159  git add *
+ 1160  git commit -m 
+ 1161  git commit -m "updated"
+ 1162  git push -u origin master
+ 1163  cd spec 
+ 1164  jasmine memoryGame.spec.js 
+ 1165  clear
+ 1166  cd memory game
+ 1167  cd memory game mvp
+ 1168  clear
+ 1169  cd https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js/invitations
+ 1170  clear
+ 1171  git init
+ 1172  git add *
+ 1173  git commit -m "first commit"
+ 1174  git push -u origin master
+ 1175  git remote add origin https://github.com/thembela1999/memory-game.git
+ 1176  git push origin master
+ 1177  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1178  cd https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1179  git checkout -b memory game
+ 1180  git checkout -b memory-game
+ 1181  git status
+ 1182  git push origin memory-game
+ 1183  git push
+ 1184  git push --set-upstream origin memory-game
+ 1185  git add *
+ 1186  git commit -m "first commit"
+ 1187  git push -u origin memory-game
+ 1188  clear
+ 1189  cs https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1190  cd https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1191  git checkout -b Thembela-Selani-222-memory-game-in-vanilla-js
+ 1192  git add *
+ 1193  git commit -m "updated"
+ 1194  git push -u origin Thembela-Selani-222-memory-game-in-vanilla-js
+ 1195  Private
+ 1196  clear
+ 1197  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1198  cd Thembela-Selani-222-memory-game-in-vanilla-js
+ 1199  clear
+ 1200  git add *
+ 1201  git commit -m "updated"
+ 1202  git push -u origin /
+ 1203  Thembela-Selani-222-memory-game-in-vanilla-js
+ 1204  git push -u origin master
+ 1205  clear
+ 1206  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1207  cd 
+ 1208  Thembela-Selani-222-memory-game-in-vanilla-js
+ 1209  git add *
+ 1210  clear
+ 1211  cd Thembela-Selani-222-memory-game-in-vanilla-js
+ 1212  git add *
+ 1213  git commit "minor changes"
+ 1214  git commit -m "minor changes"
+ 1215  git push -u origin Thembela-Selani-222-memory-game-in-vanilla-js
+ 1216  cd src
+ 1217  node password_checker.js 
+ 1218  clear
+ 1219  node password_checker.js 
+ 1220  cd src
+ 1221  node password_checker.js 
+ 1222  git add .
+ 1223  git commit -m "updated"
+ 1224  git push -u origin master
+ 1225  clear
+ 1226  cd src
+ 1227  node password_checker.js 
+ 1228  cd ..
+ 1229  cd spec
+ 1230  jasmine password_is_ok
+ 1231  jasmine password_is_ok_spec.js 
+ 1232  jasmine password_is_valid_spec.js 
+ 1233  cd src
+ 1234  node password_checker.js 
+ 1235  cd src
+ 1236  node MyDatabase.js 
+ 1237  cd spec
+ 1238  jasmine init
+ 1239  mkdir spec
+ 1240  mkdir spec
+ 1241  jasmine init
+ 1242  mkdir src
+ 1243  cd src
+ 1244  node node-file-src.js 
+ 1245  cd src
+ 1246  node node-file-src.js 
+ 1247  git clone
+ 1248  clear
+ 1249  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io.git
+ 1250  git clone https://github.com/thembela1999/simpleCalculator-Part-2.git
+ 1251  git clone  Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1252  git checkout -b Khanya-Nelani-280-node-file-io
+ 1253  git branch
+ 1254  git checkout Khanya-Nelani-280-node-file-io 
+ 1255  git clone Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1256  git clone Umuzi-org/Nkosinathi-Siyeni-222-memory-game-in-vanilla-js
+ 1257  git clone Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1258  clear
+ 1259  git clone Yanga24/mocks-and-spies
+ 1260  clear
+ 1261  git clone https://github.com/Yanga24/mocks-and-spies.git
+ 1262  git check out Yanga24
+ 1263  git checkout Yanga24
+ 1264  git checkout MOCKS-AND-SPIES
+ 1265  git checkout master
+ 1266  cd src
+ 1267  node mocks-and-spies.js 
+ 1268  cd ..
+ 1269  cd spec
+ 1270  jasmine mocks-and-spies-spec.js 
+ 1271  git clone git@github.com:Umuzi-org/Nkosinathi-Siyeni-222-memory-game-in-vanilla-js.git
+ 1272  clear
+ 1273  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1274  clear
+ 1275  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1276  clear
+ 1277  git clone https://github.com/Umuzi-org/Nuraan-Barnes-222-memory-game-in-vanilla-js
+ 1278  clear
+ 1279  git clone https://github.com/Yanga24/mocks-and-spies
+ 1280  git checkout nuraanNinah-patch-1
+ 1281  cd/ main
+ 1282  cd main
+ 1283  cd src
+ 1284  clear
+ 1285  cd mem_game/main.js
+ 1286  cd mem_game/
+ 1287  node main.js 
+ 1288  Thembela-Selani-280-node-file-io
+ 1289  git checkout node-file-io
+ 1290  clear
+ 1291  cd src
+ 1292  node node_file.js \
+ 1293  node node_file.js 
+ 1294  cd ..
+ 1295  cd sspec
+ 1296  cd spec
+ 1297  jasmine node_file_spec.js 
+ 1298  git add .
+ 1299  git commit -m "updated"
+ 1300  git push -u origin master
+ 1301  git push -u Thembela-Selani-280-node-file-io
+ 1302  git push -u origin Thembela-Selani-280-node-file-io
+ 1303  mkdir src
+ 1304  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1305  clear
+ 1306  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io
+ 1307  cd src
+ 1308  node app.js 
+ 1309  docker-compose up
+ 1310  docker ps
+ 1311  docker kill  0.0.0.0:8080
+ 1312  docker-compose up
+ 1313  cd src
+ 1314  node node-file-src.js 
+ 1315  cd ..
+ 1316  cd spec
+ 1317  jasmine test.js 
+ 1318  git clone https://github.com/Umuzi-org/Nkosinathi-Siyeni-282-node-sql-assignment
+ 1319  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1320  rm -rf https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1321  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1322  clear
+ 1323  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1324  clear
+ 1325  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1326  git branch
+ 1327  git check out https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1328  git checkout https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+ 1329  git checkout Thembela-Selani-222-memory-game-in-vanilla-js
+ 1330  git add *
+ 1331  git commit -m "first commit"
+ 1332  git push -u Thembela-Selani-222-memory-game-in-vanilla-js
+ 1333  clear
+ 1334  git merge Thembela-Selani-222-memory-game-in-vanilla-js
+ 1335  cd spec
+ 1336  jasmine test.js 
+ 1337  clear
+ 1338  jasmine test.js 
+ 1339  clear
+ 1340  cd spec
+ 1341  jasmine test.js 
+ 1342  clear
+ 1343  cd ..
+ 1344  cd src
+ 1345  node string_calculator.js 
+ 1346  clear
+ 1347  cd ..
+ 1348  cd spec
+ 1349  jasmine test.js 
+ 1350  clear
+ 1351  cd ..
+ 1352  git add *
+ 1353  git commit -m "second commit"
+ 1354  git push -u origin master
+ 1355  git clone https://github.com/Umuzi-org/Thembela-Selani-282-node-sql-assignment.git
+ 1356  cd /
+ 1357  Thembela-Selani-282-node-sql-assignment
+ 1358  cd Thembela-Selani-282-node-sql-assignment
+ 1359  cd https://github.com/Umuzi-org/Thembela-Selani-282-node-sql-assignment
+ 1360  cd Thembela-Selani-282-node-sql-assignment
+ 1361  clear
+ 1362  cd https://github.com/Umuzi-org/Thembela-Selani-282-node-sql-assignment
+ 1363  cd Thembela-Selani-282-node-sql-assignment
+ 1364  clear
+ 1365  git clone https://github.com/Umuzi-org/Thembela-Selani-282-node-sql-assignment.git
+ 1366  clear
+ 1367  git clone https://github.com/Umuzi-org/Nkosinathi-Siyeni-282-node-sql-assignment.git
+ 1368  git checkout -b c993fc0d4e242662ee43aa08a8ca46d4f1ab4915
+ 1369  git checkout -b  Umuzi-org/Nkosinathi-Siyeni-282-node-sql-assignment
+ 1370  cd ..
+ 1371  cd Desktop
+ 1372  git clone https://github.com/Umuzi-org/Nkosinathi-Siyeni-282-node-sql-assignment.git
+ 1373  touch practice
+ 1374  cd practice
+ 1375  ls
+ 1376  Desktop/
+ 1377  cd Desktop/
+ 1378  ls
+ 1379  cd pratise/
+ 1380  ls
+ 1381  git clone https://github.com/Umuzi-org/Anda-Pika-280-node-file-io.git
+ 1382  git clone https://github.com/Umuzi-org/Anda-Pika-280-node-file-io
+ 1383  git checkout master
+ 1384  git checkout -b master
+ 1385  git checkout 02211d2df53786cb33a9f9ad0150bf08d0121f04
+ 1386  git checkout -b 02211d2df53786cb33a9f9ad0150bf08d0121f04
+ 1387  git checkout -b https://github.com/Umuzi-org/Anda-Pika-280-node-file-io
+ 1388  git checkout -b 
+ 1389  Anda-Pika-280-node-file-io
+ 1390  git checkout -b Anda-Pika-280-node-file-io
+ 1391  git add *
+ 1392  git commit -m "first commit"
+ 1393  git push -u Thembela-Selani-222-memory-game-in-vanilla-js
+ 1394  git push Thembela-Selani-222-memory-game-in-vanilla-js
+ 1395  git push origin master Thembela-Selani-222-memory-game-in-vanilla-js
+ 1396  cd src
+ 1397  node code.js 
+ 1398  sudo apt update
+ 1399  sudo apt upgrade
+ 1400  node alt.js 
+ 1401  node alt.js 
+ 1402  cd src
+ 1403  node alt.js 
+ 1404  git init
+ 1405  git add *
+ 1406  git commit -m "first commit"
+ 1407  git push -u origin master
+ 1408  git remote add origin https://github.com/thembela1999/finalProject.git
+ 1409  git push -u origin master
+ 1410  mkdir src
+ 1411  npm init
+ 1412  git push -u origin master
+ 1413  git add *
+ 1414  clear
+ 1415  git init
+ 1416  git add *
+ 1417  git commit -m "first commit"
+ 1418  git push -u origin master
+ 1419  git remote add origin https://github.com/thembela1999/finalProject.git
+ 1420  git push -u origin master
+ 1421  vscode://vscode.github-authentication/did-authenticate?windowId=1&code=2ca9bb3829e35b5203af&state=3317195a-5c2e-4335-a74e-b86b9cb111be
+ 1422  clear
+ 1423  git init
+ 1424  git add *
+ 1425  git commit -m "first commit"
+ 1426  git push -u origin master
+ 1427  node code.js 
+ 1428  clear
+ 1429  node code.js 
+ 1430  clear
+ 1431  node code.js 
+ 1432  clear
+ 1433  node code.js 
+ 1434  clear
+ 1435  node code.js 
+ 1436  clear
+ 1437  cd src
+ 1438  node string_calculator.js 
+ 1439  cd ..
+ 1440  cd spec
+ 1441  jamine test.js 
+ 1442  jasmine test.js 
+ 1443  cd src
+ 1444  node node_file_src.js 
+ 1445  cd ..
+ 1446  cd spec
+ 1447  jasmine test.js 
+ 1448  clear
+ 1449  jasmine test.js 
+ 1450  clear
+ 1451  jasmine test.js 
+ 1452  cd src
+ 1453  node  mocks_and_spies.js 
+ 1454  cd ..
+ 1455  cd spec
+ 1456  jasmine tests.js 
+ 1457  node code.js 
+ 1458  cd spec
+ 1459  jasmine memoryGame.spec.js 
+ 1460  clear
+ 1461  cd src
+ 1462  cd ..
+ 1463  cd src
+ 1464  node memoryGame.js 
+ 1465  clear
+ 1466  cd ..
+ 1467  cd spec
+ 1468  jasmin memoryGame.spec.jse 
+ 1469  jasmine memoryGame.spec.js 
+ 1470  cd ..
+ 1471  clear
+ 1472  node memoryGame.js 
+ 1473  clear
+ 1474  cd spec
+ 1475  jasmine string_calculator_spec.js 
+ 1476  cd src
+ 1477  node script.js 
+ 1478  clear
+ 1479  cd ..
+ 1480  cd spec
+ 1481  jasmine support/script_specs.js 
+ 1482  sudo apt update
+ 1483  sudo apt upgrade
+ 1484  git clone https://github.com/Umuzi-org/Thembela-Selani-269-password-checker-.git
+ 1485  cd src
+ 1486  node password_checker.js 
+ 1487  cd ..
+ 1488  git add .
+ 1489  git commit "final commit"
+ 1490  git commit -m "final commit"
+ 1491  git push -u origin Thembela-selani-269-password-checker
+ 1492  \clear
+ 1493  git checkout -b passwordChecker
+ 1494  git add .
+ 1495  git commit -m "final commit"
+ 1496  git status
+ 1497  git push -u origin passwordChecker 
+ 1498  git clone https://github.com/Umuzi-org/Thembela-Selani-266-string-calculator-.git
+ 1499  git clone https://github.com/Umuzi-org/Thembela-Selani-220-build-your-first-personal-website-.git
+ 1500  git checkout -b personalWebsite
+ 1501  git add .
+ 1502  git commit -m "second commit"
+ 1503  git push -u origin personalWebsite 
+ 1504  git clone https://github.com/thembela1999/Object-Orientated-Programme.git
+ 1505  git clone /home/recruits/Desktop/Object-Orientated-Programme-master/spec
+ 1506  /home/recruits/Desktop/Object-Orientated-Programme-master/src
+ 1507  git clone https://github.com/Umuzi-org/Thembela-Selani-223-person-.git
+ 1508  git checkout -b person
+ 1509  git add .
+ 1510  gitgit init
+ 1511  clear
+ 1512  git init
+ 1513  git add .
+ 1514  git commit -m "updated"
+ 1515  git push -u origin person
+ 1516  git push -u origin 'https://github.com/Umuzi-org/Thembela-Selani-223-person-.git'
+ 1517  clear
+ 1518  git checkout -b Person
+ 1519  git add .
+ 1520  git commit -m "updated"
+ 1521  git push -u origin Person 
+ 1522  git clone https://github.com/Umuzi-org/Thembela-Selani-224-animals-part-1-oop-basics-.git
+ 1523  git checkout -b Animal
+ 1524  git  add .
+ 1525  git commit -m "updated"
+ 1526  git push -u origin Animal 
+ 1527  git clone https://github.com/Umuzi-org/Thembela-Selani-225-animals-part-2-adding-tests-.git
+ 1528  clear
+ 1529  git clone https://github.com/Umuzi-org/Thembela-Selani-230-email-random-inspirational-quote-.git
+ 1530  cd src
+ 1531  cd ..
+ 1532  cd spec
+ 1533  cd src
+ 1534  ls
+ 1535  pwd
+ 1536  git checkout -b stringCalculator
+ 1537  git add .
+ 1538  git commit -m "final commit"
+ 1539  git push -u origin stringCalculator 
+ 1540  pwd workspace
+ 1541  cd workspace
+ 1542  mkdir workspace
+ 1543  cd workspace
+ 1544  ls
+ 1545  touch README.md
+ 1546  clear
+ 1547  cd ..
+ 1548  touch exercise.md
+ 1549  mv exercise.md
+ 1550  mv exercise.md /tmp
+ 1551  npm install node-fetch
+ 1552  ls
+ 1553  cd githubApis
+ 1554  GithubAPIs
+ 1555  -- Remove the history from 
+ 1556  -- Remove the history from rm -rf .git
+ 1557  git clone https://github.com/Umuzi-org/Thembela-Selani-188-beginner-linux-challenges-.git
+ 1558  cd src
+ 1559  node mocks_and_spies.js 
+ 1560  clear
+ 1561  cd ..
+ 1562  cd spec
+ 1563  jasmine tests.js 
+ 1564  clear
+ 1565  jasmine tests.js 
+ 1566  clear
+ 1567  jasmine tests.js 
+ 1568  clear
+ 1569  git checkout -b linuxChallenges
+ 1570  git add .
+ 1571  git commit -m "first commit"
+ 1572  git push -u origin linuxChallenges 
+ 1573  rm -rf .git
+ 1574  cd src
+ 1575  node github_APIs.js 
+ 1576  cd ..
+ 1577  clear
+ 1578  npm install node-fetch
+ 1579  cd src
+ 1580  node github_APIs.js 
+ 1581  cd ..
+ 1582  npm install node-fetch
+ 1583  sudo apt install npm node-fetch
+ 1584  cd src
+ 1585  node github_APIs.js 
+ 1586  clear
+ 1587  touch README.md
+ 1588  cd README.md
+ 1589  ls -a
+ 1590  git status
+ 1591  nano README.md
+ 1592  cat README.md
+ 1593  git status
+ 1594  git stats
+ 1595  "second commit"
+ 1596  cd README.md
+ 1597  cd ..
+ 1598  cd README.md
+ 1599  clear
+ 1600  git log
+ 1601  git clone https://github.com/Umuzi-org/Thembela-Selani-288-git-basic-exercises-.git
+ 1602  node javascript.js 
+ 1603  git clone https://github.com/Umuzi-org/Thembela-Selani-186-consume-github-api-.git
+ 1604  git checkoput -b githubAPIs
+ 1605  git checkout -b githubAPIs
+ 1606  git add .
+ 1607  git commit -m "fixed src"
+ 1608  git push -u origin githubAPIs 
+ 1609  git add .
+ 1610  git commit -m "minor changes"
+ 1611  git push -u origin githubAPIs 
+ 1612  cd src
+ 1613  node github_APIs.js 
+ 1614  clear
+ 1615  node github_APIs.js 
+ 1616  clear
+ 1617  node github_APIs.js 
+ 1618  clear
+ 1619  node github_APIs.js 
+ 1620  clear
+ 1621  cd spec
+ 1622  jasmine
+ 1623  jasmine memoryGame.spec.js 
+ 1624  clear
+ 1625  jasmine memoryGame.spec.js 
+ 1626  cd spec
+ 1627  jasmine
+ 1628  jasmine memoryGame.spec.js 
+ 1629  clear
+ 1630  jasmine memoryGame.spec.js 
+ 1631  cd spec
+ 1632  git clone https://github.com/Umuzi-org/Thembela-Selani-200-sql.git
+ 1633  cd spec
+ 1634  jasmine string_calculator_spec.js 
+ 1635  mkdir src
+ 1636  jasmine
+ 1637  cd spec
+ 1638  jasmine simpleCalculator.js 
+ 1639  clear
+ 1640  jasmine simpleCalculator.js 
+ 1641  clear
+ 1642  jasmine simpleCalculator.js 
+ 1643  cd add *
+ 1644  git add *
+ 1645  git init
+ 1646  git add *
+ 1647  git commit -m "final commit"
+ 1648  git push -u origin master
+ 1649  git push -u Simple_Calculator_Part\ 2/
+ 1650  git push --set-upstream Simple_Calculator_Part 2/ master
+ 1651  git push -u origin simpleCalculator-Part-2
+ 1652  clear
+ 1653  git checkout -b simpleCalcPart2
+ 1654  git add .
+ 1655  git commit -m "final commit"
+ 1656  git init
+ 1657  git add *
+ 1658  git commit -m "fixed spec"
+ 1659  git push -u origin simpleCalcPart2 
+ 1660  git push -u origin Simple_Calculator_Part 2
+ 1661  jasmine memoryGame.spec.js 
+ 1662  clear
+ 1663  cd spec
+ 1664  jasmine simpleCalculator.js 
+ 1665  clear
+ 1666  git clone https://github.com/Umuzi-org/Nkosinathi-Siyeni-280-node-file-io.git
+ 1667  cd src
+ 1668  node node_file_io.js 
+ 1669  cd spec
+ 1670  cd ..
+ 1671  cd spec
+ 1672  node node_file_io_spec.js 
+ 1673  clear
+ 1674  node node_file_io_spec.js 
+ 1675  jasmine node_file_io_spec.js 
+ 1676  git checkout -b 1849eab1a1f59e847013175b72b07678728e5548
+ 1677  git checkout 1849eab1a1f59e847013175b72b07678728e5548
+ 1678  git checkout -b Nkosi97-patch-1
+ 1679  cd src
+ 1680  node simple_calculator.js 
+ 1681  cd ..
+ 1682  jasmine simple_calculator_spec.js 
+ 1683  git init
+ 1684  git add *
+ 1685  git commit -m "final commit"
+ 1686  clear
+ 1687  git checkout -b simpleCalculatorPart1
+ 1688  git add .
+ 1689  git commit -m "minor changes"
+ 1690  git status
+ 1691  git status
+ 1692  git checkout -b calculatorPart1
+ 1693  clear
+ 1694  git checkout -b calculatorPart1
+ 1695  git init
+ 1696  git add .
+ 1697  git commit -m "minor changes"
+ 1698  git push -u origin simpsimpleCalcPart1
+ 1699  clear
+ 1700  cd Thembela-Selani-200-sql/
+ 1701  sudo docker-compose up
+ 1702  $ sudo apt-get update
+ 1703  $ sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1704  mkdir src
+ 1705  git checkout -b SQL
+ 1706  touch docker-compose.yaml
+ 1707  npm init
+ 1708  mkdir src
+ 1709  cd src
+ 1710  touch sql.js
+ 1711  cd ..
+ 1712  jasmine init
+ 1713  cd spec
+ 1714  touch sql_spec.js
+ 1715  cd ..
+ 1716  touch queries.sql
+ 1717  touch tables.sql
+ 1718  clear
+ 1719  touch queries.sql
+ 1720  git checkout -b Sql
+ 1721  git add .
+ 1722  git init
+ 1723  git add .
+ 1724  git add *
+ 1725  git rm -r <gitignore>/*
+ 1726  git commit -m "first commit"
+ 1727  git push -u origin Sql 
+ 1728  docker-compose.yaml
+ 1729  sudo docker-compose up
+ 1730  clear
+ 1731  cd Thembela-Selani-200-sql/
+ 1732  sudo docker-compose up
+ 1733  cd Thembela-Selani-200-sql/
+ 1734  docker-compose up
+ 1735  git clone https://github.com/Umuzi-org/Nkosinathi-Siyeni-230-email-random-inspirational-quote-.git
+ 1736  cd src
+ 1737  node password_checker.js 
+ 1738  cd src
+ 1739  node server.js 
+ 1740  cd src
+ 1741  node notify.js 
+ 1742  cd ..
+ 1743  jasmine notify_spec.js 
+ 1744  git checkout -b Umuzi-org/Nkosinathi-Siyeni-230-email-random-inspirational-quote-
+ 1745  git checkout -b consumeGithubApi
+ 1746  cd src
+ 1747  node app.js 
+ 1748  addUp(4)
+ 1749  clear
+ 1750  addUp(4)
+ 1751  clear
+ 1752  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1753  git checkout -b simpleCalc
+ 1754  git add 
+ 1755  git add .
+ 1756  git commit -m "second commit"
+ 1757  git status
+ 1758  git commit -m "second commit"
+ 1759  git commit -m "final commit"
+ 1760  clear
+ 1761  git checkout -b simpleCalculator
+ 1762  git add *
+ 1763  git commit -m "final commit"
+ 1764  git push -u origin simpleCalculator 
+ 1765  git push -u origin simpleCalc
+ 1766  git remote set-url origin git@https://github.com/thembela1999
+ 1767  cd src
+ 1768  node simple_calculator.js 
+ 1769  cd ..
+ 1770  cd spec
+ 1771  jasmine simple_calculator_spec.js 
+ 1772  clear
+ 1773  cd ..
+ 1774  git checkout -b simpleCalcPart1
+ 1775  git checkout -b simpleCalc
+ 1776  git add .
+ 1777  git init
+ 1778  git checkout -b simpleCalc
+ 1779  git add .
+ 1780  git commit -m "final commit"
+ 1781  git push -u origin simpleCalc 
+ 1782  git remote set-url origin git@yourGitUrlHere
+ 1783  git remote set-url origin git@https://github.com/thembela1999
+ 1784  git push -u origin master simpleCalc 
+ 1785  git checkout -b katas
+ 1786  git add .
+ 1787  git commit -m "final commit"
+ 1788  git push -u origin katas 
+ 1789  git clone https://github.com/Umuzi-org/Thembela-Selani-219-level-1-programming-katas-.git
+ 1790  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1791  git branch
+ 1792  git checkout -b simpleCalc
+ 1793  git add .
+ 1794  git commit -m "minor changes"
+ 1795  git push -u origin simpleCalc 
+ 1796  cd Thembela-Selani-200-sql/
+ 1797  docker-compose up
+ 1798  git branch
+ 1799  git add .
+ 1800  git commit -m 'final commit'
+ 1801  git status
+ 1802  git add spec
+ 1803  git status
+ 1804  git add simple_calculator.js
+ 1805  git add simple_calculator_spec.js
+ 1806  git status
+ 1807  git branch
+ 1808  cd src
+ 1809  node simple_Calculator_part_2.js 
+ 1810  cd ..
+ 1811  jasmine simple_Calculator_spec_part_2.js 
+ 1812  cd src
+ 1813  node stringCalculator.js 
+ 1814  cd ..
+ 1815  cd spec
+ 1816  jasmine stringCalculatorSpec.js 
+ 1817  clear
+ 1818  jasmine stringCalculatorSpec.js 
+ 1819  cd Thembela-Selani-200-sql/
+ 1820  docker-compose up
+ 1821  git status
+ 1822  git commit -a
+ 1823  git add .
+ 1824  git status
+ 1825  git commit -m "fixed src file"
+ 1826  git push -u origin master githubAPIs
+ 1827  git branch
+ 1828  git checkout -b gitApi
+ 1829  git branch
+ 1830  git branch -d <Sql> 
+ 1831  git branch -D <Sql> 
+ 1832  git branch -D Sql
+ 1833  clear
+ 1834  git branch
+ 1835  git status
+ 1836  clear
+ 1837  git add .
+ 1838  git init
+ 1839  git add .
+ 1840  git add --ignore-errors .
+ 1841  git add .
+ 1842  git status
+ 1843  git commit -m "first commit"
+ 1844  git push -u origin Sql 
+ 1845  got status
+ 1846  git branch
+ 1847  git add .
+ 1848  git commit -m "fixed spec"
+ 1849  clear
+ 1850  hit status
+ 1851  clear
+ 1852  got status
+ 1853  clear
+ 1854  git status
+ 1855  git checkout -b simpleCalc
+ 1856  Thembela-Selani-273-simple-calculator-part-1-/
+ 1857  cd Thembela-Selani-273-simple-calculator-part-1-/
+ 1858  git status
+ 1859  ls
+ 1860  git remote
+ 1861  git remote -v
+ 1862  git commit -m "fixed spec"
+ 1863  clear
+ 1864  git commit -m "fixed spec"
+ 1865  git status
+ 1866  git branch
+ 1867  git status
+ 1868  git commit -m "fixed spec"
+ 1869  git add .
+ 1870  git commit -m "fixed spec"
+ 1871  git add .
+ 1872  git commit -m "fixed spec"
+ 1873  git init
+ 1874  git add .
+ 1875  git commit -m "fixed spec"
+ 1876  git push -u origin simpleCalc 
+ 1877  clear
+ 1878  git commit -m "fixed spec"
+ 1879  git fetch
+ 1880  git status
+ 1881  git commit -m "fixed spec"
+ 1882  clear
+ 1883  git status
+ 1884  git add .
+ 1885  git commit -m "added spec"
+ 1886  git add *
+ 1887  git commit -m "added spec"
+ 1888  git add *
+ 1889  git commit -m "added spec"
+ 1890  clear
+ 1891  git status
+ 1892  git add .
+ 1893  git status
+ 1894  git add simple_calculator_spec.js
+ 1895  git add spec
+ 1896  git status
+ 1897  git add .
+ 1898  git commit -m 'deleted spec file'
+ 1899  git push
+ 1900  git pull https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1901  jasmine init
+ 1902  git status
+ 1903  git add .
+ 1904  git commit -m 'added spec file'
+ 1905  git push
+ 1906  git checkout -bcalculator
+ 1907  git status
+ 1908  git add .
+ 1909  git status
+ 1910  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1911  cd Thembela-Selani-273-simple-calculator-part-1-/
+ 1912  code .
+ 1913  cd Thembela-Selani-273-simple-calculator-part-1-/
+ 1914  git init
+ 1915  git add .
+ 1916  git staus
+ 1917  git status
+ 1918  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1919  clear
+ 1920  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+ 1921  git checkout -b cal
+ 1922  cd Thembela-Selani-273
+ 1923  cd Thembela-Selani-273-simple-calculator-part-1-/
+ 1924  code .
+ 1925  git add .
+ 1926  git status
+ 1927  cd src
+ 1928  node person.js 
+ 1929  cd ..
+ 1930  cd spec
+ 1931  jasmine oop_spec.js 
+ 1932  clear
+ 1933  jasmine oop_spec.js 
+ 1934  clear
+ 1935  jasmine oop_spec.js 
+ 1936  clear
+ 1937  jasmine oop_spec.js 
+ 1938  clear
+ 1939  cd ..
+ 1940  cd src
+ 1941  node person.js 
+ 1942  clear
+ 1943  node person.js 
+ 1944  clear
+ 1945  node person.js 
+ 1946  clear
+ 1947  node person.js 
+ 1948  git checkout -bcal
+ 1949  mkdir src
+ 1950  mkdir source
+ 1951  ls
+ 1952  git branch
+ 1953  git init
+ 1954  git add src
+ 1955  fit status
+ 1956  git status
+ 1957  git add src
+ 1958  git commit -m ''add'
+ 1959  git commit -m 'add'
+ 1960  ~ls
+ 1961  ls
+ 1962  git branch
+ 1963  git status
+ 1964  git staus
+ 1965  git status
+ 1966  git add src
+ 1967  git commit -m 'added src file'
+ 1968  git push cal
+ 1969  git push
+ 1970  jasmine init
+ 1971  git status
+ 1972  git add spec
+ 1973  git commit -m 'added spec file'
+ 1974  git status
+ 1975  git commit -m 'deleted'
+ 1976  git status
+ 1977  git add .
+ 1978  git commit -m 'test'
+ 1979  git push
+ 1980  jasmine init
+ 1981  git status
+ 1982  git add .
+ 1983  git commit -m 'added all files'
+ 1984  git push
+ 1985  cd src
+ 1986  node string_calculator.js 
+ 1987  clear
+ 1988  jasmine init
+ 1989  npm init
+ 1990  git status
+ 1991  git add .
+ 1992  git status
+ 1993  git commit -m "fixed spec"
+ 1994  git push
+ 1995  cd Thembela-Selani-200-sql/
+ 1996  docker-compose up
+ 1997  node
+ 1998  mkdir git-basic-exercises
+ 1999  cd git-basic-exercises/
+ 2000  la -a
+ 2001  ls
+ 2002  git init
+ 2003  ls -a
+ 2004  git status
+ 2005  touch README.md
+ 2006  ls -a
+ 2007  git status
+ 2008  git log
+ 2009  git add README.md
+ 2010  ls -a
+ 2011  git status
+ 2012  git commit -m "initial commit"
+ 2013  git log
+ 2014  q
+ 2015  nano README.md
+ 2016  cat README.md
+ 2017  git stats
+ 2018  git status
+ 2019  git commit -m "second commit"
+ 2020  git add *
+ 2021  git commit -m "second commit"
+ 2022  git log
+ 2023  q
+ 2024  git checkout f75bc497d89673865f53d09d5fcdeaae1c1b19f2
+ 2025  cat README.md
+ 2026  git checkout master
+ 2027  cat README.md
+ 2028  git branch
+ 2029  git checkout milkshake-flavours
+ 2030  git checkout -b milkshake-flavours
+ 2031  git branch
+ 2032  nano milkshakes.md
+ 2033  git status
+ 2034  git add *
+ 2035  git status
+ 2036  git log
+ 2037  git commit -m "added initial flavours"
+ 2038  git log
+ 2039  git checkout -b master
+ 2040  git checkout master
+ 2041  git checkout -b history
+ 2042  git checkout
+ 2043  git log
+ 2044  git branch
+ 2045  history > history.txt
